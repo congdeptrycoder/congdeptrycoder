@@ -1,5 +1,4 @@
 <h1 align="center">Hi everyone, I'm Cong Chi Phan!!!</h1>
-<p align="center">A Mobile Developer</p>
 
 ---
 
