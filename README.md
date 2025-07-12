@@ -7,8 +7,6 @@
 <p align="center">Math Specialized Class – Hung Vuong High School for the Gifted (2020–2023)</p>
 <p align="center">Faculty of Educational Technology – Hanoi University of Science and Technology</p>
 
----
-
 <h1 align="center">
   <span style="font-size: 22px; "><strong> Code, Code more, Code forever</strong></span>
   <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bDZvbmFhZjJ0ODVhOXc0ZGwyang3cm4zNGpwdjQ3NmN6cGp3b2NlayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/giphy.gif" width="60" style="margin-left: 10px;">
